@@ -18,10 +18,25 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'Xq5SdAcr', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 24
+*Premium 💎*
+Permanen = Rp 10.000
+*Sewa Bot 🤖*
+1 Minggu = Rp 5.000
+2 Minggu = Rp 7.000
+1  Bulan   = Rp 10.000
+3 Bulan   = Rp 15.000
+6 Bulan   = Rp 20.000
+1 Tahun   = Rp 30.000
+Permanen = Rp 50.000
+*DISKON BULAN RAMADHAN 🌙*
+Sewa Bot permanen 
+- Rp 15.000
+Premium Permanen
+- Rp 5.000
+Note : diskon ini hanya berlaku hingga Tanggal 21 saja, jika sudah lewat tanggal tersebut maka akan kembali ke harga normal
 `
 // setting 
 global.firtsChat = true //send firts message to new user
@@ -31,11 +46,11 @@ global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = false
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
 global.autowelcome = true //auto welcome msg all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
@@ -46,18 +61,18 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "ꜱʜᴀᴅᴏᴡ ʙᴏᴛ" //namabot kalian
+global.ownername = "ＭＩＦＴＡＨ ＧＡＮＺＺ" //nama kalian
+global.myweb = "https://s.id/miftahbotz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/c/@MiftahAzzam" //bebas asal jan hapus
+global.myweb2 = "https://s.id/miftahbotz" //bebas
+global.email = "miftahganz01@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
+global.premium = ['6285171226069'] //premium user
+global.owner = ["6285171226069"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285171226069" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
@@ -287,7 +302,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
-   sukses: '🤗Done, Oke Desu~',
+   sukses: '🤗Done, Kak..',
    admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
    botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
    owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
