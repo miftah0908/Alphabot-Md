@@ -50,7 +50,7 @@ global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
 global.autowelcome = true //auto welcome msg all group
 global.autogoodbye = true //auto goodbye msg all group
-global.groupOnly = true //bot hanya bisa di gunakan dalam grup jika true
+global.groupOnly = false //bot hanya bisa di gunakan dalam grup jika true
 
 //language
 //Available in indonesia , english & spanyol 
